@@ -36,7 +36,7 @@
 ## התקנה
 1. שיבטו את הריפוזיטורי:
    ```bash
-   git clone https://github.com/yk6749841-ai/React_Project.git
+   git clone https://github.com/yk6749841-ai/React_Final_Project.git
    ```
 2. עברו לתיקיית הפרויקט:
    ```bash
